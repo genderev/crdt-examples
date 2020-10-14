@@ -7,6 +7,10 @@ Practical examples of CRDTs that you can reference for your p2p app.
 ### JavaScript
 - [PN-Counter (JS)](https://github.com/noansknv/operational_transformation) 
 - [LWW-Element-Set (JS)](https://github.com/heinrich10/lww-set)
+- [G-Counter (JS)](https://github.com/orbitdb/crdts/blob/master/src/G-Counter.js)
+- [G-Set (JS)](https://github.com/orbitdb/crdts/blob/master/src/G-Set.js)
+- [2P Set (JS)](https://github.com/orbitdb/crdts/blob/master/src/2P-Set.js)
+- [OR set (JS)](https://github.com/orbitdb/crdts/blob/master/src/OR-Set.js)
 - [Delta CRDTs (JS)](https://github.com/peer-base/js-delta-crdts)
 - [LSEQTree (JS)](https://github.com/Chat-Wane/LSEQTree)
 - [LSEQArray (JS)](https://github.com/Chat-Wane/LSEQArray)

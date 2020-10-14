@@ -31,7 +31,7 @@ Practical examples of CRDTs that you can reference for your p2p app.
 - [2P Set (Go)](https://github.com/neurodrone/crdt/blob/master/twophase_set.go)
 - [RON (Go)](https://github.com/gritzko/ron)
 - [LWW Register (Go)](https://github.com/danburkert/crdt/blob/master/src/register/lwwregister.rs)
-= [PN Set (Go)](https://github.com/danburkert/crdt/blob/master/src/set/pnset.rs)
+- [PN Set (Go)](https://github.com/danburkert/crdt/blob/master/src/set/pnset.rs)
 ### Java
 - [LSEQ (Java)](https://github.com/Chat-Wane/LSEQ)
 - [wurmloch (Java)](https://github.com/netopyr/wurmloch-crdt)
